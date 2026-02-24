@@ -1,0 +1,5 @@
+[
+  "tests/test_env_diff.py::TestDiff::test_basic",
+  "tests/test_env_diff.py::TestDiff::test_empty",
+  "tests/test_env_diff.py::TestDiff::test_type_error"
+]
